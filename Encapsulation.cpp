@@ -19,6 +19,7 @@ class Employee{
 
 int main(){
 	Employee myobj;
+	//This is just for comparing two comnmits, so technically no changes
 	/*
 	int ss;
 	cout << "Enter Salary: "<<"\n";
