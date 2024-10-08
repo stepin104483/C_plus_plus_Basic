@@ -1,0 +1,23 @@
+DS are used to store and organize data. Example is an array which stores multiple elements in a single variable. 
+
+Similarly c++ has many DS which are used to handle data in different ways. For this, we have a library in c++ called as STL [Standard Template Library]. 
+
+
+STL --> It's a library which consist of different DS [like Array] & algortihms to manipulate data.
+
+DS --> Basically to store Data. 
+Algorithms --> Methods to manipulate data to solve problems.
+
+Coming to various DS, Let's study one by one, no need to study everything at a time.
+1. Vector --> It stores data like an array but we can dynamically change size of the array and here, data can be added or modified at the end. Good thing is, just like an 
+array, Data can be accessed through index. Here mulitple of same data type is stored. 
+
+Another advantage of using vector to array is that vector include many other functions like .front() & .back() to get the first and last element
+we can also use .at() functions instead of [] bracket because .at() functions will throw an error if found.
+
+Key Concepts of the STL:- 
+1. Containers --> These are data strutures that provide way to store Data like vectors
+2. Iterators  --> These are objects that are used to access elements of a data structure. 
+3. Algorithms --> These include functions like sort(), find (), that perform operations on data structure through iterators
+
+
